@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ojdbc:ojdbc:14-10gR3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ojdbc/ojdbc/14-10gR3/ojdbc-14-10gR3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
