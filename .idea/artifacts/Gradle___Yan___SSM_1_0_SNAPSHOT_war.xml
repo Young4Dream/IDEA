@@ -9,7 +9,7 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="SSM" />
-          <element id="dir-copy" path="$PROJECT_DIR$/SSM1/build/resources/main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/SSM/build/resources/main" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Gradle: org.aspectj:aspectjweaver:1.8.9" />
