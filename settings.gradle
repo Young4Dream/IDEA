@@ -1,2 +1,4 @@
 includeFlat 'SSM'
+include 'SSM1'
+findProject(':SSM1')?.name = 'SSM'
 
